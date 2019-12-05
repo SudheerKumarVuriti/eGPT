@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eGPTWebAPI", "eGPTWebAPI\eGPTWebAPI.csproj", "{076540C6-E1EB-4FA2-909B-B7D8064340B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076540C6-E1EB-4FA2-909B-B7D8064340B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076540C6-E1EB-4FA2-909B-B7D8064340B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076540C6-E1EB-4FA2-909B-B7D8064340B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076540C6-E1EB-4FA2-909B-B7D8064340B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DF500BD-470D-44C1-8517-E0E6BED21DC7}
+	EndGlobalSection
+EndGlobal
